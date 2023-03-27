@@ -1,0 +1,26 @@
+{
+  "name": "eddie",
+  "version": "0.1.0",
+  "description": "Eddie is a general purpose Discord bot to use in your server, and this is its repository.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CesarInThaHouse/Eddie.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "server",
+    "js"
+  ],
+  "author": "CesarInThaHouse",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3"
+  }
+}
